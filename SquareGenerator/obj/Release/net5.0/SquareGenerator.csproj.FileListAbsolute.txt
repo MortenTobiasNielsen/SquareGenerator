@@ -1,0 +1,16 @@
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.exe
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.deps.json
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.runtimeconfig.json
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.runtimeconfig.dev.json
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.dll
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\ref\SquareGenerator.dll
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\bin\Release\net5.0\SquareGenerator.pdb
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.csproj.AssemblyReference.cache
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.AssemblyInfoInputs.cache
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.AssemblyInfo.cs
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.dll
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\ref\SquareGenerator.dll
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.pdb
+C:\Users\mtniel\source\repos\SquareGenerator\SquareGenerator\obj\Release\net5.0\SquareGenerator.genruntimeconfig.cache
